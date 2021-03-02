@@ -16,11 +16,7 @@
     "nconf": "*",
     "validator": "*",
     "jquery": "*",
-    "request-json": "*"
-  },
-  "devDependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^7.0.1",
-    "nyc": "*"
+    "request-json": "*",
+    "hellojs": "1.18.4"
   }
 }
